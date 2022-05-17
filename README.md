@@ -1,6 +1,7 @@
 #test task with animation
 
-A new Flutter project.
+Buttons will be disabled when box moving or cannot pass.
+
 
 ![Screenshot_1652798212](https://user-images.githubusercontent.com/88509809/168838641-163bef3f-26f9-4768-95dc-e415f0dcf33b.png)
 
